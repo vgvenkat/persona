@@ -10,3 +10,17 @@ Features:
 - unit and widget tests
 - custom app Icons
 
+App Icon
+
+
+!['App Icon'](app_icon.png)
+
+App Home
+
+
+!['App Home'](home.png)
+
+App Detail
+
+
+!['App Detail'](detail.png)
